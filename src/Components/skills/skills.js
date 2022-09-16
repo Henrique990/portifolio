@@ -7,14 +7,14 @@ export default function Skills() {
 
     const restDescription = 'de experiência com essa tecnologia.'
     const listColors = ['#83cd29', '#68217a', ' #ffd845', '#e62c2d', '#61dafb', '#61dafb', ' #e54d26', '#3d8fc6', '#007acc', '#f0db4f']; 
-    const titles = ['Node.js', 'C Sharp', 'Python', 'Java', 'React Native', 'React', 'HTML5', 'CSS3', 'TypeScript', 'JavaScript'];
+    const titles = ['Node.js', /*'C Sharp',*/ 'Python', /*'Java',*/ 'React Native', 'React', 'HTML5', 'CSS3', 'TypeScript', 'JavaScript'];
     const progress = ['50', '50', '33.33', '110', '30', '80', '120', '100', '25', '100']
     const descriptions = 
     [
     `6 meses ${restDescription}`,
-    `6 meses ${restDescription}`,
+    // `6 meses ${restDescription}`,
     `4 meses ${restDescription}`,
-    `1 ano ${restDescription}`,
+    // `1 ano ${restDescription}`,
     `3 meses ${restDescription}`,
     `9 meses ${restDescription}`,
     `1 ano ${restDescription}`,
@@ -56,15 +56,15 @@ export default function Skills() {
                     <div class="single-item">
                         <i class="devicon-nodejs-plain colored" id="icon-language"></i>
                     </div>
-                    <div class="single-item">
+                    {/* <div class="single-item">
                         <i class="devicon-csharp-plain-wordmark colored" id="icon-language"></i>
-                    </div>
+                    </div> */}
                     <div class="single-item">
                         <i class="devicon-python-plain-wordmark colored" id="icon-language"></i>
                     </div>
-                    <div class="single-item mg-1">
+                    {/* <div class="single-item mg-1">
                         <i class="devicon-java-plain-wordmark colored" id="icon-language"></i>
-                    </div>
+                    </div> */}
                     <div class="single-item mg-1">
                         <i class="devicon-react-original colored" id="icon-language"></i>
                     </div>
