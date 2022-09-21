@@ -1,10 +1,10 @@
 <h1 align="center">
-  💻<br /><a href="https://enzosylvestrin.github.io/portifolio/">Portfólio - Enzo Sylvestrin</a>
+  💻<br /><a href="https://henrique990.github.io/portifolio/">Portfólio - Enzo Sylvestrin</a>
 </h1>
 
 ![Resultado final do projeto](img-preview.png)
 
-<h4 align="center"><a href="https://enzosylvestrin.github.io/portifolio/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://henrique990.github.io/portifolio/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
@@ -36,7 +36,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 ---
 
-<h2>👻 Autor</h2>
+<h2>👻 Autor Original do Portifolio</h2>
 
 <table>
   <tr>
