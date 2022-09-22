@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br /><a href="https://henrique990.github.io/portifolio/">Portfólio - Enzo Sylvestrin</a>
+  💻<br /><a href="https://henrique990.github.io/portifolio/">Portfólio - Henrique Teixeira</a>
 </h1>
 
 ![Resultado final do projeto](img-preview.png)
